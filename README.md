@@ -1,5 +1,7 @@
 # Labelled-Bond and Sustainability-Linked-Bond Diligence Agent
 
+[![Validate research workflow](https://github.com/HHFinAi/Labelled-Bond-and-Sustainability-Linked-Bond-Diligence/actions/workflows/validate.yml/badge.svg?branch=main)](https://github.com/HHFinAi/Labelled-Bond-and-Sustainability-Linked-Bond-Diligence/actions/workflows/validate.yml)
+
 **Institutional-quality buy-side research, designed to support tradable investment decisions through a traceable, auditable workflow.**
 
 Does the specific bond offer acceptable credit and relative value, separately from the integrity of its label, KPI and contractual incentives?
