@@ -1,0 +1,54 @@
+{
+  "agent": "labelled-bond-slb-diligence-agent",
+  "version": "0.2.0",
+  "validated_on": "2026-09-25",
+  "python": "3.13.5",
+  "platform": "Linux",
+  "unit_test_executions": 122,
+  "domain_unit_tests": 15,
+  "unit_tests": "PASS",
+  "schema_validations": 61,
+  "schema_validation": "PASS",
+  "routes": [
+    {
+      "route": "green-bond",
+      "status": "SYNTHETIC_COMPLETE_NOT_APPROVED",
+      "stage_count": 10,
+      "packet_digest": "84565134ccf8a6c66bf8fe2a64058a90abc5a6ff57915a8f3aabd9f47533d5db",
+      "execution_authorized": false
+    },
+    {
+      "route": "social-bond",
+      "status": "SYNTHETIC_COMPLETE_NOT_APPROVED",
+      "stage_count": 10,
+      "packet_digest": "7ee5eaaea6051b884d7a31601bfe9b47d32db420b943c9b82f40e62be1fac824",
+      "execution_authorized": false
+    },
+    {
+      "route": "sustainability-bond",
+      "status": "SYNTHETIC_COMPLETE_NOT_APPROVED",
+      "stage_count": 10,
+      "packet_digest": "55d7c4800e48f5c0fe551e5cd23703e5f52b9fe4d733e447f32e37b2abfdf26f",
+      "execution_authorized": false
+    },
+    {
+      "route": "sustainability-linked-bond",
+      "status": "SYNTHETIC_COMPLETE_NOT_APPROVED",
+      "stage_count": 10,
+      "packet_digest": "01f6a6254b09a847d4561fa42cabe5d755fedba3ab2fdecee2b5a456fa2b20c6",
+      "execution_authorized": false
+    },
+    {
+      "route": "transition-bond",
+      "status": "SYNTHETIC_COMPLETE_NOT_APPROVED",
+      "stage_count": 10,
+      "packet_digest": "6bdccd5c6c8212b889887446c8aa2e3524d02d9ebb4f86197b469ad3caa432e8",
+      "execution_authorized": false
+    }
+  ],
+  "source_study_status": "NEEDS_DATA",
+  "live_research_performed": false,
+  "remote_github_actions_run": false,
+  "production_certification": false,
+  "repository_checks": "PASS"
+}

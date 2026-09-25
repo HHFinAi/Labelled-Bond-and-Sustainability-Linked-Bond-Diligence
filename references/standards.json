@@ -1,0 +1,57 @@
+{
+  "as_of": "2026-09-25",
+  "standards": [
+    {
+      "id": "ICMA-SLBP",
+      "title": "ICMA Sustainability-Linked Bond Principles 2024",
+      "url": "https://www.icmagroup.org/sustainable-finance/the-principles-guidelines-and-handbooks/sustainability-linked-bond-principles-slbp/",
+      "source_date": "2024-06-01",
+      "checked_on": "2026-09-25",
+      "status": "VOLUNTARY_GUIDANCE",
+      "can_apply_as_current_rule": false,
+      "note": "2024 edition identified on official page; source date is a month-level anchor, not the exact release date. Contract terms govern cash flows.",
+      "jurisdiction": "See primary source and mandate",
+      "effective_from": null,
+      "verification_scope": "Official landing-page/source description checked; not an exhaustive line-by-line compliance mapping"
+    },
+    {
+      "id": "ICMA-GBP",
+      "title": "ICMA Green Bond Principles",
+      "url": "https://www.icmagroup.org/sustainable-finance/the-principles-guidelines-and-handbooks/green-bond-principles-gbp/",
+      "source_date": "2026-09-25",
+      "checked_on": "2026-09-25",
+      "status": "VOLUNTARY_GUIDANCE",
+      "can_apply_as_current_rule": false,
+      "note": "Dynamic official landing page; reviewed date used as source-date anchor. Select the issuance-relevant edition, not a presumed universal label rule.",
+      "jurisdiction": "See primary source and mandate",
+      "effective_from": null,
+      "verification_scope": "Official landing-page/source description checked; not an exhaustive line-by-line compliance mapping"
+    },
+    {
+      "id": "IFRS-TRANSITION",
+      "title": "IFRS Foundation transition disclosure guidance",
+      "url": "https://www.ifrs.org/sustainability/knowledge-hub/ifrs-resources/",
+      "source_date": "2025-06-23",
+      "checked_on": "2026-09-25",
+      "status": "EDUCATIONAL_GUIDANCE",
+      "can_apply_as_current_rule": false,
+      "note": "Guidance on applying IFRS S2; does not require an entity to have a transition plan or prove its delivery.",
+      "jurisdiction": "See primary source and mandate",
+      "effective_from": null,
+      "verification_scope": "Official landing-page/source description checked; not an exhaustive line-by-line compliance mapping"
+    },
+    {
+      "id": "ICMA-CTBG",
+      "title": "ICMA Climate Transition Bond Guidelines and June 2026 FAQs",
+      "url": "https://www.icmagroup.org/sustainable-finance/the-principles-guidelines-and-handbooks/climate-transition-finance-handbook",
+      "source_date": "2026-06-22",
+      "checked_on": "2026-09-25",
+      "status": "VOLUNTARY_GUIDANCE",
+      "can_apply_as_current_rule": false,
+      "note": "2025 guidelines and complementary FAQs released 22 June 2026; landing-page review, not a full legal or framework-conformity opinion.",
+      "jurisdiction": "See primary source and mandate",
+      "effective_from": null,
+      "verification_scope": "Official landing-page/source description checked; not an exhaustive line-by-line compliance mapping"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "face": 100,
+  "step_up_bps": 25,
+  "first_payment_period": 7,
+  "last_payment_period": 10,
+  "annual_discount": 0.05,
+  "frequency": 2
+}

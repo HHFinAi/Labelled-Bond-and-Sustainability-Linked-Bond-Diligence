@@ -1,0 +1,44 @@
+{
+  "id": "C1",
+  "operation": "slb_stepup_pv",
+  "arguments": {
+    "face": 100,
+    "step_up_bps": 25,
+    "first_payment_period": 7,
+    "last_payment_period": 10,
+    "annual_discount": 0.05,
+    "frequency": 2
+  },
+  "currency": "USD",
+  "measurement_unit": "specified_outcome",
+  "input_unit": "percent",
+  "result_unit": "decimal",
+  "input_provenance": {
+    "face": {
+      "assumption": "Explicit illustrative input, not a market observation or verified forecast.",
+      "unit": "USD"
+    },
+    "step_up_bps": {
+      "assumption": "Explicit illustrative input, not a market observation or verified forecast.",
+      "unit": "basis_points"
+    },
+    "first_payment_period": {
+      "assumption": "Explicit illustrative input, not a market observation or verified forecast.",
+      "unit": "period_index"
+    },
+    "last_payment_period": {
+      "assumption": "Explicit illustrative input, not a market observation or verified forecast.",
+      "unit": "period_index"
+    },
+    "annual_discount": {
+      "assumption": "Explicit illustrative input, not a market observation or verified forecast.",
+      "unit": "decimal"
+    },
+    "frequency": {
+      "assumption": "Explicit illustrative input, not a market observation or verified forecast.",
+      "unit": "payments_per_year"
+    }
+  },
+  "result": 0.40549232117388867,
+  "output_unit": "USD"
+}

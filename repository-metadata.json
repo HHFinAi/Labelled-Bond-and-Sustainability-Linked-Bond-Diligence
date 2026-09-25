@@ -1,0 +1,21 @@
+{
+  "owner": "HHFinAi",
+  "repository_name": "labelled-bond-slb-diligence-agent",
+  "description": "Labelled bonds and SLBs: institutional-quality buy-side research with traceable, auditable workflows and investment-decision handoffs. Research support, not certification or trading.",
+  "topics": [
+    "sustainable-finance",
+    "buy-side",
+    "investment-research",
+    "ai-agent",
+    "agent-skills",
+    "auditable-workflow",
+    "human-in-the-loop",
+    "bond-analysis",
+    "green-bonds",
+    "sustainability-linked-bonds",
+    "fixed-income"
+  ],
+  "publication_status": "prepared-not-published",
+  "intended_repository_url": "https://github.com/HHFinAi/labelled-bond-slb-diligence-agent",
+  "homepage": null
+}
